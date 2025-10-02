@@ -30,7 +30,7 @@ Permite criar temas, cadastrar perguntas com alternativas e jogar quizzes com re
 Clone este repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/quiz-n2.git
+git clone https://github.com/mayarasa98/avaliacao_n2_quiz.git
 cd quiz-n2
 ```
 
